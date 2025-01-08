@@ -11,4 +11,4 @@ The data for this analysis was obtained from the U.S. Energy Information Adminis
 
 After experimenting with different graph types, I concluded that a simple bar graph would best convey the information.
 
-!REC_plot.png
+
